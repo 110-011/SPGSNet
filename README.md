@@ -1,2 +1,2 @@
 # SPGSNet
-Semantic-Driven and Graph Convolutional Distillation for Remote Sensing Image Semantic Segmentation Network
+Semantic Prompt and Graph Convolution Structure Distillation Network for Semantic Segmentation of Remote Sensing Images
